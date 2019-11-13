@@ -9,7 +9,7 @@
 <body>
 <div class="container">
   <h3 class="text-center">Contacts In Pipeline</h3>
-  <div class="table-responsive-sm table-hover table-dark table-bordered">          
+  <div class="table-responsive-sm table-hover table-bordered" style="background-color: #262E36;">          
   <table class="table">
     <thead>
       <tr>
