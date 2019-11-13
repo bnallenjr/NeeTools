@@ -6,12 +6,12 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-  <title>CIP SUITE</title>
+  <title>ROESES</title>
  
 </head>
 <body>
 <?php include 'nav.html'?>
-<h2>Asset Management</h2>
+<h2>Contacts</h2>
 <div class ="row">
 	<div class="col-sm-6">
 
@@ -19,19 +19,20 @@
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
 			<a href ="#newAsset" data-toggle="modal"><div class="card-body">
-				<h5 align="center" class="text-white">New BES Asset (Facilities)</h5>
+				<h5 align="center" class="text-white">New Contacts</h5>
 			</div>
 	</div></a>
 	</div>
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
 			<a href ="#tblAsset" data-toggle="modal"><div class="card-body">
-				<h5 align="center" class="text-white">BES Asset (Facilities)</h5>
+				<h5 align="center" class="text-white">Current Contacts</h5>
 			</div>
 	</div></a>
 	</div>
 </div>
 &nbsp
+<!--
 <div class ="row">
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
@@ -64,7 +65,7 @@
 			</div>
 	</div></a>
 	</div>
-</div>
+</div>-->
 </div>
 <div class="col-sm-6">
 				<?php include "uptasks.php" ?>
