@@ -15,7 +15,7 @@
 <div class ="row">
 	<div class="col-sm-6">
 
-<div class ="row">
+<!--<div class ="row">-->
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
 			<a href ="#newAsset" data-toggle="modal"><div class="card-body">
@@ -30,7 +30,7 @@
 			</div>
 	</div></a>
 	</div>
-</div>
+<!--</div>-->
 &nbsp
 <!--
 <div class ="row">
@@ -77,7 +77,7 @@
 <div class="modal-content">
 
 	<div class="modal-header">
-	<h3>Asset List</h3>
+	<h3>Contact In Play</h3>
 	<button type="button" class="close" data-dismiss="modal">&times;</button>
 	</div>
 	<div class="modal-body">
@@ -125,13 +125,13 @@
 </div>
 </div>
 </div>
-<!--New Asset-->
+<!--New Contact-->
 <div id="newAsset" class="modal fade">
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
 
 	<div class="modal-header">
-	<h3>New Asset Form</h3>
+	<h3>New Contact Form</h3>
 	<button type="button" class="close" data-dismiss="modal">&times;</button>
 	</div>
 	<div class="modal-body">

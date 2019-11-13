@@ -8,41 +8,46 @@
 </head>
 <body>
 <div class="container">
-  <h3 class="text-center">Upcoming Tasks</h3>
+  <h3 class="text-center">Contacts In Pipeline</h3>
   <div class="table-responsive-sm table-hover table-dark table-bordered">          
   <table class="table">
     <thead>
       <tr>
-        <th>Standard</th>
-        <th>Task</th>
-        <th>Owner</th>
-        <th>Due Date</th>
+        <th>Contact Name</th>
+        <th>Phone</th>
+        <th>Email</th>
+		<th>Last Contacted</th>
+        <th>Status</th>
       </tr>
     </thead>
     <tbody>
 		<tr>
-        <td>008</td>
-        <td>Conduct Incident Response Exercise</td>
-        <td>Tre Black</td>
-        <td>11/15/2018</td>
+        <td>Anthony B.</td>
+        <td>(555)555-5555</td>
+        <td>ab@gmail.com</td>
+        <td>11/07/2018</td>
+		<td>Ready to Start Process </td>
       </tr>
       <tr>
-        <td>004</td>
-        <td>Performance of QARs</td>
-        <td>Teddy Smith</td>
-        <td>12/31/2018</td>
+        <td>Audrey M.</td>
+        <td>(555)555-5555</td>
+        <td>am@hotmail.com</td>
+        <td>10/31/2019</td>
+		<td>Waiting 3 - Months</td>
       </tr>
 	  <tr>
-        <td>002</td>
-        <td>Approval of BES Asset Listing</td>
-        <td>Libby Thomas</td>
-        <td>3/24/2019</td>
+        <td>Shenoah K.</td>
+        <td>(555)555-5555</td>
+        <td>sk@outlook.com</td>
+        <td>9/24/2019</td>
+		<td>Just Looking</td>
       </tr>
 	<tr>
-        <td>010</td>
-        <td>Performance of Annual CVA</td>
-        <td>Olivia Montgomery</td>
+        <td>Sylvester Barry</td>
+        <td>(555)555-5555</td>
+        <td>sb@aol.com</td>
         <td>10/20/2019</td>
+		<td>Just Met</td>
       </tr>
     </tbody>
   </table>
