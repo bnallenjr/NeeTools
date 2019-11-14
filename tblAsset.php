@@ -29,7 +29,7 @@
         <td>am@gmail.com</td>
 		<td>Pre-Approval</td>
 		<td>11/06/2019</td>
-		<td><a href="#">Edit</a></td>
+		<td><a href="contactedit.php">Edit</a></td>
       </tr>
       <tr>
         <td>Barry Burton</td>
@@ -37,7 +37,7 @@
         <td>bb@gwinnettmed.net</td>
 		<td>Inspection</td>
 		<td>10/20/2019</td>
-		<td><a href="#">Edit</a></td>
+		<td><a href="contactedit.php">Edit</a></td>
       </tr>
 	  <tr>
         <td>Jill Valentine</td>
@@ -45,7 +45,7 @@
         <td>jv@capcom.com</td>
 		<td>Appraisal</td>
 		<td>11/12/2019</td>
-		<td><a href="#">Edit</a></td>
+		<td><a href="contactedit.php">Edit</a></td>
       </tr>
 	  <tr>
         <td>Albert Wesker</td>
@@ -53,7 +53,7 @@
         <td>aw@aws.com</td>
         <td>Due Dilligence</td>
 		<td>11/01/2013</td>
-		<td><a href="#">Edit</a></td>
+		<td><a href="contactedit.php">Edit</a></td>
       </tr>
     </tbody>
   </table>

@@ -89,16 +89,28 @@
 			<option value="Rockdale">Rockdale</option>
 			<option value="Spalding">Spalding</option>
 			<option value="Walton">Walton</option>
-			
 		</select>
 	</div>
 	<div class = "form-group">
-		<label for="text">Contact Last Name:</label>
-		<input type="text" class="form-control" name="lname" placeholder="Enter Contact Last Name...">
+		<label for="sel1">Home Type:</label>
+		<select name="constatus" id="sel1" class="form-control">
+			<option value="" disabled selected>Please select one...</option>
+			<option value="PreApp">Ranch</option>
+			<option value="inspection">Split Level</option>
+			<option value="Appraisal">Townhome</option>
+			<option value="DueDill">Duplex</option>
+			<option value="ContractSent">Condo</option>
+			<option value="ContractBind">Apartment</option>
+			<option value="AwaitingClosing">Section 8</option>
+		</select>
 	</div>
 	<div class = "form-group">
-		<label for="text">Primary Phone:</label>
-		<input type="text" class="form-control" name="phone" placeholder="Enter Contact Phone...">
+		<label for="text">Number of Beds:</label>
+		<input type="text" class="form-control" name="lname" placeholder="Number of Beds...">
+	</div>
+	<div class = "form-group">
+		<label for="text">Number of Baths:</label>
+		<input type="text" class="form-control" name="phone" placeholder="Number of Baths...">
 	</div>
 	<div class = "form-group">
 		<label for="text">Contact Email:</label>
@@ -118,15 +130,16 @@
 			<option value="closed">Closed</option>
 		</select>
 	</div>
-	
-	<div class="form-group">
-		<label>Intial Contact Date:</label>
-		<input id="input" input type="date" name="iniDate" class="form-control">
-	</div>
-	<div class="form-group">
-		<label>Projected Closing Date:</label>
-		<input id="input" input type="date" name="iniDate" class="form-control">
-	</div>
+	<label for="sel1">Extras:</label>
+	<label class="checkbox-inline">
+      <input type="checkbox" value="">Basement
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">3 Car Garage
+    </label>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Pool/Hot Tub
+    </label>
 	</br>
 	</div>
 	<button type="submit" class="btn btn-success">Submit</button> <button type="reset" class="btn btn-warning" value="Reset">Reset Form</button>
