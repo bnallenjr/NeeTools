@@ -112,10 +112,7 @@
 		<label for="text">Number of Baths:</label>
 		<input type="text" class="form-control" name="phone" placeholder="Number of Baths...">
 	</div>
-	<div class = "form-group">
-		<label for="text">Contact Email:</label>
-		<input type="text" class="form-control" name="email" placeholder="Enter Contact Email...">
-	</div>
+
 	<div class = "form-group">
 		<label for="sel1">Status:</label>
 		<select name="constatus" id="sel1" class="form-control">
