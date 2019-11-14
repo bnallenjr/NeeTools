@@ -23,6 +23,7 @@
 			</div>
 	</div></a>
 	</div>
+	&nbsp
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
 			<a href ="#tblAsset" data-toggle="modal"><div class="card-body">
