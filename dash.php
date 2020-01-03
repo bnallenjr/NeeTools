@@ -6,7 +6,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-  <title>CIP SUITE</title>
+  <title>R.O.S.E.S</title>
  
 </head>
 <body>
@@ -15,21 +15,21 @@
 <div class="card-deck">
   <div class="card bg-secondary">
 	<div class="card-body text-center">
-      <h4 class="card-text text-white">Time left before Next Audit: </br> <h4 class="text-white" id="timeLeft"></h4></h4>
+      <h4 class="card-text text-white">Time left before Next Closing: </br> <h4 class="text-white" id="timeLeft"></h4></h4>
     </div>
-	<div class="card-footer text-center text-white">Date of Next Audit - 10/20/2020</div>
+	<div class="card-footer text-center text-white">Date of Next Closing - 10/20/2020</div>
   </div>
   <div class="card bg-dark">
     <div class="card-body text-center">
-      <h4 class="card-text text-white">Potential Compliance Issues to Date: </br> 20</h4>
+      <h4 class="card-text text-white">Transactions Date: </br> 20</h4>
     </div>
-	<div class="card-footer text-center text-white">Compliance Issues this month - 1</div>
+	<div class="card-footer text-center text-white">Transactions this month - 1</div>
   </div>
   <div class="card bg-secondary">
     <div class="card-body text-center">
-      <h4 class="card-text text-white">Current State of CIP Compliance: </br> 59%</h4>
+      <h4 class="card-text text-white">Current Clients in Queue: </br> 6</h4>
     </div>
-	<div class="card-footer text-center text-white">State of Compliance this Month: - 100%</div>
+	<div class="card-footer text-center text-white">Closings this Month: - 3</div>
   </div>
   <div class="card bg-dark">
     <div class="card-body text-center">

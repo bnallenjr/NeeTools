@@ -18,7 +18,7 @@
 <!--<div class ="row">-->
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
-			<a href ="#newAsset" data-toggle="modal"><div class="card-body">
+			<a href ="#newContact" data-toggle="modal"><div class="card-body">
 				<h5 align="center" class="text-white">New Contacts</h5>
 			</div>
 	</div></a>
@@ -26,7 +26,7 @@
 	&nbsp
 	<div class="col-sm-6">
 		<div class="card bg-secondary text-white">
-			<a href ="#tblAsset" data-toggle="modal"><div class="card-body">
+			<a href ="#tblContact" data-toggle="modal"><div class="card-body">
 				<h5 align="center" class="text-white">Current Contacts</h5>
 			</div>
 	</div></a>
@@ -72,8 +72,8 @@
 				<?php include "uptasks.php" ?>
 	</div>
 </div>
-<!--Existing Asset-->
-<div id="tblAsset" class="modal fade">
+<!--Existing Contact-->
+<div id="tblContact" class="modal fade">
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
 
@@ -82,7 +82,7 @@
 	<button type="button" class="close" data-dismiss="modal">&times;</button>
 	</div>
 	<div class="modal-body">
-		<?php include 'tblAsset.php'?>
+		<?php include 'tblContact.php'?>
 	</div>
 	<div class ="modal-footer">
 	
